@@ -21,7 +21,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://opportunitydesk.org/2023/03/08/un-sdg-action-awards-2023/
 ### https://www.mindbodygreen.com/articles/synchronicities
 ### https://casper.com/blog/chronotype/
-###
+### https://www.superside.com/blog/y-combinator
 ###
 ###
 ###
