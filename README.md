@@ -22,7 +22,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.mindbodygreen.com/articles/synchronicities
 ### https://casper.com/blog/chronotype/
 ### https://www.superside.com/blog/y-combinator
-###
+### https://levelup.gitconnected.com/chatgpt-will-replace-programmers-within-10-years-91e5b3bd3676
 ###
 ###
 ###
