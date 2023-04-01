@@ -18,9 +18,9 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://apilayer.com/marketplace/number_verification-api?utm_source=EthicalAds&utm_medium=Leads+Acquisition&utm_content=PaidAds-numverify-V2&utm_campaign=PaidAds-numverify-V2&ea-publisher=dailydev
 ### https://www.alphr.com/download-install-chrome-os/
 ### https://disrupt-africa.com/2022/09/08/60-startups-share-4m-as-second-cohort-of-google-for-startups-black-founders-fund-for-africa/
-###
-###
-###
+### https://opportunitydesk.org/2023/03/08/un-sdg-action-awards-2023/
+### https://www.mindbodygreen.com/articles/synchronicities
+### https://casper.com/blog/chronotype/
 ###
 ###
 ###
