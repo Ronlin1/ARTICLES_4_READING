@@ -25,7 +25,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://levelup.gitconnected.com/chatgpt-will-replace-programmers-within-10-years-91e5b3bd3676
 ### https://www.axios.com/2023/03/27/ai-chatgpt-software-programming-plugins?utm_medium=social&utm_campaign=editorial&utm_source=twitter
 ### https://beebom.com/best-chatgpt-alternatives/
-###
+### https://www.listendata.com/2023/03/open-source-chatgpt-models-step-by-step.html
 ###
 ###
 ###
