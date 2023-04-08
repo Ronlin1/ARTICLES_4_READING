@@ -32,7 +32,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://skventures.substack.com/p/societys-technical-debt-and-softwares
 ### https://beebom.com/how-use-chatgpt-4-free/
 ### https://dalpix.com/
-###
+### https://medium.com/swlh/forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind-b1b15270d515
 ### 
 ###
 ### 
