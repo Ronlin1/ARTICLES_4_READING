@@ -29,6 +29,25 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://levelup.gitconnected.com/the-inequitable-reality-of-being-a-programmer-exploring-the-unfair-advantage-c7e3a1dd580c
 ### https://medium.com/swlh/i-used-chatgpt-every-day-for-3-months-heres-what-i-ve-learned-b4e8b1d910b4
 ### https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
+### https://skventures.substack.com/p/societys-technical-debt-and-softwares
+### https://beebom.com/how-use-chatgpt-4-free/
 ### 
 ###
+### 
+###
+### 
+###
+### 
+###
+### 
+###
+### 
+###
+### 
+###
+### 
+###
+### 
+###
+
 #################################
