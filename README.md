@@ -26,7 +26,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.axios.com/2023/03/27/ai-chatgpt-software-programming-plugins?utm_medium=social&utm_campaign=editorial&utm_source=twitter
 ### https://beebom.com/best-chatgpt-alternatives/
 ### https://www.listendata.com/2023/03/open-source-chatgpt-models-step-by-step.html
-###
+### https://levelup.gitconnected.com/the-inequitable-reality-of-being-a-programmer-exploring-the-unfair-advantage-c7e3a1dd580c
 ###
 ###
 ###
