@@ -27,7 +27,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://beebom.com/best-chatgpt-alternatives/
 ### https://www.listendata.com/2023/03/open-source-chatgpt-models-step-by-step.html
 ### https://levelup.gitconnected.com/the-inequitable-reality-of-being-a-programmer-exploring-the-unfair-advantage-c7e3a1dd580c
-###
+### https://medium.com/swlh/i-used-chatgpt-every-day-for-3-months-heres-what-i-ve-learned-b4e8b1d910b4
 ###
 ###
 ###
