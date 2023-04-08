@@ -31,7 +31,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
 ### https://skventures.substack.com/p/societys-technical-debt-and-softwares
 ### https://beebom.com/how-use-chatgpt-4-free/
-### 
+### https://dalpix.com/
 ###
 ### 
 ###
