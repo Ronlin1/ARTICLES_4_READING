@@ -35,7 +35,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://medium.com/swlh/forget-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind-b1b15270d515
 ### https://medium.com/@ignacio.de.gregorio.noblejas/offline-rl-680450c472c
 ### https://medium.com/swlh/i-used-chatgpt-every-day-for-3-months-heres-what-i-ve-learned-b4e8b1d910b4
-### 
+### https://www.marktechpost.com/2023/04/08/40-cool-ai-tools-you-should-check-out-april-2023/
 ###
 ### 
 ###
