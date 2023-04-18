@@ -40,7 +40,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://hackernoon.com/50-python-projects-10-lines-of-code?source=rss
 ### https://xiaowuc2.vercel.app/posts/computational-thinking-python?ref=hackernoon.com
 ### https://whatdoesthiscodedo.com/
-###
+### https://www.listendata.com/2023/03/open-source-chatgpt-models-step-by-step.html
 ### 
 ###
 ### 
