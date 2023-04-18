@@ -38,8 +38,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.marktechpost.com/2023/04/08/40-cool-ai-tools-you-should-check-out-april-2023/
 ### https://www.informdirect.co.uk/company-records/change-a-companys-articles-of-association/
 ### https://hackernoon.com/50-python-projects-10-lines-of-code?source=rss
-###
-### 
+### https://xiaowuc2.vercel.app/posts/computational-thinking-python?ref=hackernoon.com
+### https://whatdoesthiscodedo.com/
 ###
 ### 
 ###
