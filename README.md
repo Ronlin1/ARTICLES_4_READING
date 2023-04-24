@@ -41,7 +41,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://xiaowuc2.vercel.app/posts/computational-thinking-python?ref=hackernoon.com
 ### https://whatdoesthiscodedo.com/
 ### https://www.listendata.com/2023/03/open-source-chatgpt-models-step-by-step.html
-### 
+### https://www.youtube.com/@afroboyug/videos
 ###
 ### 
 ###
