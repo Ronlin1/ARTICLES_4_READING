@@ -44,7 +44,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.youtube.com/@afroboyug/videos
 ### https://damus.io/
 ### https://www.producthunt.com/posts/devgpt
-###
+### https://westonludeke.medium.com/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57
 ### 
 ###
 ### 
