@@ -45,8 +45,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://damus.io/
 ### https://www.producthunt.com/posts/devgpt
 ### https://westonludeke.medium.com/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57
-### 
-###
+### https://www.baseattackforce.com/?r=twibafwwd&twclid=235x5fy2jnpnmnwmaj8lj4afr6
+### https://westonludeke.medium.com/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57
 ### 
 ###
 
