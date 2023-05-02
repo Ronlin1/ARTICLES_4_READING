@@ -47,7 +47,19 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://westonludeke.medium.com/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57
 ### https://www.baseattackforce.com/?r=twibafwwd&twclid=235x5fy2jnpnmnwmaj8lj4afr6
 ### https://westonludeke.medium.com/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57
-### 
+### https://medium.com/pipeline-a-data-engineering-resource/a-simple-python-script-that-allows-me-to-save-more-than-20k-a-year-d5640878b2fc
+### https://artificialcorner.com/bye-bye-chatgpt-ai-tools-better-than-chatgpt-but-few-people-are-using-them-eac93a3627cc
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
 ###
 
 #################################
