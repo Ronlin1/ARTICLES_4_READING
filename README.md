@@ -51,8 +51,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://artificialcorner.com/bye-bye-chatgpt-ai-tools-better-than-chatgpt-but-few-people-are-using-them-eac93a3627cc
 ### https://westonludeke.medium.com/dont-learn-a-programming-language-learn-software-engineering-7068f4cb7e57
 ### https://startbootstrap.com/template-overviews/stylish-portfolio
-###
-###
+### https://tar-name-4a2.notion.site/150-ChatGPT-prompts-to-make-you-a-top-1-copywriter-f353cb5446fb488abc7a68365e1229bf
+### https://www2.fundsforngos.org/category/latest-funds-for-ngos/
 ###
 ###
 ###
