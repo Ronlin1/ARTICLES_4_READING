@@ -53,8 +53,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://startbootstrap.com/template-overviews/stylish-portfolio
 ### https://tar-name-4a2.notion.site/150-ChatGPT-prompts-to-make-you-a-top-1-copywriter-f353cb5446fb488abc7a68365e1229bf
 ### https://www2.fundsforngos.org/category/latest-funds-for-ngos/
-###
-###
+### https://www.abstractapi.com/guides/django-send-email
+### https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 ###
 ###
 ###
