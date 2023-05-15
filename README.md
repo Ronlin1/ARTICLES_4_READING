@@ -56,7 +56,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.abstractapi.com/guides/django-send-email
 ### https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 ### https://betterhumans.pub/how-to-wake-up-at-5-a-m-every-day-ceb02e29c802
-###
+### https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/?utm_source=related_WP&utm_medium=https://www.analyticsvidhya.com/blog/2022/01/speech-to-text-conversion-in-python-a-step-by-step-tutorial/
 ###
 ###
 ###
