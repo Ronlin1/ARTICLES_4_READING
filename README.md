@@ -60,7 +60,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 ### https://www.analyticsvidhya.com/blog/2023/05/how-to-use-chatgpt-api-in-python/
 ### https://levelup.gitconnected.com/4-mistakes-that-can-ruin-your-it-career-3d3748f7be5d
-###
+### https://artificialcorner.com/gpt4all-is-the-local-chatgpt-for-your-documents-and-it-is-free-df1016bc335
 ###
 ###
 ###
