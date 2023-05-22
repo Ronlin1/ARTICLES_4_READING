@@ -59,6 +59,16 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/?utm_source=related_WP&utm_medium=https://www.analyticsvidhya.com/blog/2022/01/speech-to-text-conversion-in-python-a-step-by-step-tutorial/
 ### https://technicalblog.saimachaity.com/2019/09/todo-application-in-python-django.html
 ### https://www.analyticsvidhya.com/blog/2023/05/how-to-use-chatgpt-api-in-python/
+### https://levelup.gitconnected.com/4-mistakes-that-can-ruin-your-it-career-3d3748f7be5d
+###
+###
+###
+###
+###
+###
+###
+###
+###
 ###
 ###
 
