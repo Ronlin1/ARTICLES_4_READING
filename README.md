@@ -61,8 +61,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.analyticsvidhya.com/blog/2023/05/how-to-use-chatgpt-api-in-python/
 ### https://levelup.gitconnected.com/4-mistakes-that-can-ruin-your-it-career-3d3748f7be5d
 ### https://artificialcorner.com/gpt4all-is-the-local-chatgpt-for-your-documents-and-it-is-free-df1016bc335
-###
-###
+### https://blog.devgenius.io/25-signs-of-an-experienced-python-developer-edf36da83f19
+### https://betterprogramming.pub/computer-science-vs-software-engineering-which-one-is-a-better-major-88482c38446b
 ###
 ###
 ###
