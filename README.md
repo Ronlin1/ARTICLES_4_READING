@@ -63,7 +63,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://artificialcorner.com/gpt4all-is-the-local-chatgpt-for-your-documents-and-it-is-free-df1016bc335
 ### https://blog.devgenius.io/25-signs-of-an-experienced-python-developer-edf36da83f19
 ### https://betterprogramming.pub/computer-science-vs-software-engineering-which-one-is-a-better-major-88482c38446b
-###
+### https://medium.com/change-your-mind/7-tiny-habits-that-can-have-a-huge-effect-on-your-life-c14a8ff1cc9d
 ###
 ###
 ###
