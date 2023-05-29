@@ -66,7 +66,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://medium.com/change-your-mind/7-tiny-habits-that-can-have-a-huge-effect-on-your-life-c14a8ff1cc9d
 ### https://blog.devgenius.io/25-signs-of-an-experienced-python-developer-edf36da83f19
 ### https://artificialcorner.com/privategpt-a-free-chatgpt-alternative-to-interact-with-your-documents-offline-ea1c98f98062
-###
+### https://open-data-analytics.medium.com/top-10-best-open-source-projects-on-github-2023-784bf4df2a94
 ###
 ###
 ###
