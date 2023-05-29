@@ -69,7 +69,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://open-data-analytics.medium.com/top-10-best-open-source-projects-on-github-2023-784bf4df2a94
 ### https://artificialcorner.com/gpt4all-is-the-local-chatgpt-for-your-documents-and-it-is-free-df1016bc335
 ### https://blog.devgenius.io/python-tutorial-pywebview-a-python-library-for-creating-graphical-user-interfaces-43fbabe4f440
-###
+### https://www.activeloop.ai/resources/data-chad-an-ai-app-with-lang-chain-deep-lake-to-chat-with-any-data/
 ###
 ###
 ###
