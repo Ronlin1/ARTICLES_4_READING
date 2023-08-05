@@ -71,8 +71,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://blog.devgenius.io/python-tutorial-pywebview-a-python-library-for-creating-graphical-user-interfaces-43fbabe4f440
 ### https://www.activeloop.ai/resources/data-chad-an-ai-app-with-lang-chain-deep-lake-to-chat-with-any-data/
 ### https://huggingface.co/spaces/fffiloni/video2mmpose
-### 
-###
+### https://www.youtube.com/watch?v=dtBWU9CF_cI
+### https://blog.ossph.org/programming-principles-every-developer-should-know/
 ###
 ###
 ###
