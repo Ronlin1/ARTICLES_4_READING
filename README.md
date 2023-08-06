@@ -73,8 +73,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://huggingface.co/spaces/fffiloni/video2mmpose
 ### https://www.youtube.com/watch?v=dtBWU9CF_cI
 ### https://blog.ossph.org/programming-principles-every-developer-should-know/
-###
-###
+### https://db-ip.com/all/41.210.155
+### https://www.alux.com/dumb-businesses/
 ###
 ###
 ###
