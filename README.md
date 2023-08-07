@@ -75,7 +75,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://blog.ossph.org/programming-principles-every-developer-should-know/
 ### https://db-ip.com/all/41.210.155
 ### https://www.alux.com/dumb-businesses/
-###
+### https://www.isc2.org/Research/Workforce-Study?ref=hackernoon.com
 ###
 ###
 ###
