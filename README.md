@@ -76,8 +76,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://db-ip.com/all/41.210.155
 ### https://www.alux.com/dumb-businesses/
 ### https://www.isc2.org/Research/Workforce-Study?ref=hackernoon.com
-###
-###
+### https://hackernoon.com/its-time-to-talk-about-being-a-jack-of-all-trades-in-software-development
+### https://hackernoon.com/reviving-your-creative-energy-as-a-developer?source=rss
 ###
 ###
 ###
