@@ -78,7 +78,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.isc2.org/Research/Workforce-Study?ref=hackernoon.com
 ### https://hackernoon.com/its-time-to-talk-about-being-a-jack-of-all-trades-in-software-development
 ### https://hackernoon.com/reviving-your-creative-energy-as-a-developer?source=rss
-###
+### https://dev.to/jacktt/creating-dynamic-readmemd-file-388o
 ###
 ###
 ###
