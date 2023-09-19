@@ -81,8 +81,20 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://dev.to/jacktt/creating-dynamic-readmemd-file-388o
 ### https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/
 ### https://hackernoon.com/the-art-and-science-of-wealth-transfer-ensuring-your-fortune-remains-yours?source=rss
+### https://www.permit.io/blog/10-exceptional-developer-tools-launched-in-2023
+### https://hackernoon.com/why-crowdfunding-and-charity-platforms-are-valuable?source=rss
+### https://hackernoon.com/the-zeigarnik-effect-how-those-unfinished-tasks-at-work-ruin-your-evenings-and-how-to-beat-them?source=rss
 ###
 ###
 ###
-
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
 #################################
