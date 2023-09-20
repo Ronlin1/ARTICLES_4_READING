@@ -84,8 +84,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.permit.io/blog/10-exceptional-developer-tools-launched-in-2023
 ### https://hackernoon.com/why-crowdfunding-and-charity-platforms-are-valuable?source=rss
 ### https://hackernoon.com/the-zeigarnik-effect-how-those-unfinished-tasks-at-work-ruin-your-evenings-and-how-to-beat-them?source=rss
-###
-###
+### 
+### https://www.insider.com/dante-bowe-why-he-left-maverick-city-music-what-happened-2023-9
 ###
 ###
 ###
