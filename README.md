@@ -86,7 +86,7 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://hackernoon.com/the-zeigarnik-effect-how-those-unfinished-tasks-at-work-ruin-your-evenings-and-how-to-beat-them?source=rss
 ### 
 ### https://www.insider.com/dante-bowe-why-he-left-maverick-city-music-what-happened-2023-9
-###
+### https://www.americanscientist.org/article/the-world-according-to-wolfram
 ###
 ###
 ###
