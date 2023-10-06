@@ -87,8 +87,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### 
 ### https://www.insider.com/dante-bowe-why-he-left-maverick-city-music-what-happened-2023-9
 ### https://www.americanscientist.org/article/the-world-according-to-wolfram
-###
-###
+### https://www.quora.com/How-much-does-wolfram-alpha-cost
+### https://medium.com%2F@medium.com/tech-based-teaching/mathematica-at-chemistry-class-5560243a7f33
 ###
 ###
 ###
