@@ -90,8 +90,8 @@ My REPO FOR READING SOME IMPORTANT ARTICLES
 ### https://www.quora.com/How-much-does-wolfram-alpha-cost
 ### https://medium.com%2F@medium.com/tech-based-teaching/mathematica-at-chemistry-class-5560243a7f33
 ### https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/
-###
-###
+### https://ultracopier.herman-brule.com/
+### https://ultracopier.herman-brule.com/
 ###
 ###
 ###
